@@ -1,11 +1,89 @@
 <mxfile host="app.diagrams.net">
-  <diagram name="Página-1" id="acIwGKDpZFeW8fP596hc">
-    <mxGraphModel dx="858" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="Página-1" id="dJCqRRRSREMhTHSWa_J2">
+    <mxGraphModel dx="1378" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q_CM9JAXthb-UQjGD5e3-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Placeholder" vertex="1">
-          <mxGeometry height="80" width="80" x="380" y="200" as="geometry" />
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="467.5" width="467.5" x="330" y="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-23" edge="1" parent="1" source="B4ey-AmX2ztoqDWM5skF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="B4ey-AmX2ztoqDWM5skF-22">
+          <mxGeometry relative="1" x="-0.0318" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="492.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-24" connectable="0" parent="B4ey-AmX2ztoqDWM5skF-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Dados do Cultivo" vertex="1">
+          <mxGeometry relative="1" x="0.442" y="1" as="geometry">
+            <mxPoint x="-31" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-25" edge="1" parent="1" source="B4ey-AmX2ztoqDWM5skF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="B4ey-AmX2ztoqDWM5skF-11">
+          <mxGeometry relative="1" x="-0.0395" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="490" />
+              <mxPoint x="400" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-26" connectable="0" parent="B4ey-AmX2ztoqDWM5skF-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Alertas" vertex="1">
+          <mxGeometry relative="1" x="0.226" y="2" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Robô" vertex="1">
+          <mxGeometry height="60" width="90" x="540" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-3" edge="1" parent="1" source="B4ey-AmX2ztoqDWM5skF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="B4ey-AmX2ztoqDWM5skF-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="692.5" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-4" connectable="0" parent="B4ey-AmX2ztoqDWM5skF-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Informações Topológicas" vertex="1">
+          <mxGeometry relative="1" y="3" as="geometry">
+            <mxPoint x="5" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Drone" vertex="1">
+          <mxGeometry height="30" width="45" x="670" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cultivo" vertex="1">
+          <mxGeometry height="30" width="60" x="230" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-9" edge="1" parent="1" source="B4ey-AmX2ztoqDWM5skF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="B4ey-AmX2ztoqDWM5skF-2">
+          <mxGeometry relative="1" x="-0.1583" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="395" />
+              <mxPoint x="430" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-10" connectable="0" parent="B4ey-AmX2ztoqDWM5skF-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Alvos, Comandos" vertex="1">
+          <mxGeometry relative="1" x="-0.0083" y="-1" as="geometry">
+            <mxPoint x="29" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Controlador da Missão" vertex="1">
+          <mxGeometry height="45" width="20" x="390" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-14" edge="1" parent="1" source="B4ey-AmX2ztoqDWM5skF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="B4ey-AmX2ztoqDWM5skF-2">
+          <mxGeometry relative="1" x="0.424" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="325" />
+            </Array>
+            <mxPoint x="430" y="325" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-15" connectable="0" parent="B4ey-AmX2ztoqDWM5skF-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Altura, Cor" vertex="1">
+          <mxGeometry relative="1" x="0.4" y="2" as="geometry">
+            <mxPoint x="-62" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sistema de Gestão Agrícola" vertex="1">
+          <mxGeometry height="45" width="110" x="860" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
