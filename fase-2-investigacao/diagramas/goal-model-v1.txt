@@ -1,0 +1,676 @@
+{
+  "actors": [],
+  "orphans": [
+    {
+      "id": "53f608f2-01b1-41eb-b319-4c0c22b56cce",
+      "text": "G0: Qualidade do Cultivo",
+      "type": "kaos.BehavioralGoal",
+      "x": -7.105916351172567,
+      "y": 163.48341175224755,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "107be61c-3556-4c05-926f-dbcfd82aa7e6",
+      "text": "Os resultados são usados pelo Gestor de forma a melhorar o Cultivo",
+      "type": "kaos.DomainProperty",
+      "x": 114.5638526940281,
+      "y": 319.2172627454618,
+      "customProperties": {}
+    },
+    {
+      "id": "cf206ae9-c58c-45d7-8dd9-b0269bf7c555",
+      "text": "O Robô coleta os dados",
+      "type": "kaos.BehavioralGoal",
+      "x": -98.66372979500542,
+      "y": 316.6402012800027,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "2871ef0b-372a-48d7-9ed9-16e0bacbe398",
+      "text": "A Lista de Alvos é definida",
+      "type": "kaos.BehavioralGoal",
+      "x": -208.58036922712554,
+      "y": 468.98531084492276,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "c35a5a86-4d57-4713-acdf-0bb7e6c2146e",
+      "text": "O Robô está pronto",
+      "type": "kaos.BehavioralGoal",
+      "x": -42.12336500130769,
+      "y": 476.84896272560536,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "1ae7e7ac-8b56-4421-a07f-2a65feda1854",
+      "text": "O Robô alcança os Alvos",
+      "type": "kaos.BehavioralGoal",
+      "x": -378.16466398775844,
+      "y": 472.30407353192925,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "61e886b3-7b01-4208-b60a-157dd3054c61",
+      "text": "Alvos são acessíveis",
+      "type": "kaos.DomainProperty",
+      "x": 160.7146086777568,
+      "y": 480.2089902087672,
+      "customProperties": {}
+    },
+    {
+      "id": "f6f82341-19bf-49a2-8295-c3eadf06c536",
+      "text": "Drone",
+      "type": "kaos.Agent",
+      "x": 165.35313375905704,
+      "y": 629.7280173356718,
+      "customProperties": {
+        "Description": "Dúvida: Como o Robô sabe que o alvo está inacessível?"
+      }
+    },
+    {
+      "id": "b01396d9-1850-45e9-9596-dfc1dbbb941f",
+      "text": "Os Dados ficam acessíveis ao Controlador",
+      "type": "kaos.BehavioralGoal",
+      "x": -328.41341314580063,
+      "y": 312.8367215024138,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "455a5aac-6c52-4336-a041-8e9762ba14c5",
+      "text": "Bateria Carregada",
+      "type": "kaos.BehavioralGoal",
+      "x": -48.661750219360584,
+      "y": 628.1013853862942,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "3d15f523-7fac-428b-99c5-7212e4c5947b",
+      "text": "Melhorar qualidade dos Cultivos",
+      "type": "kaos.BehavioralGoal",
+      "x": 1246.063414870263,
+      "y": 135.1819345217999,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "c846f413-cc49-46f1-bea0-53da29fa85f6",
+      "text": "Preparar a Missão",
+      "type": "kaos.BehavioralGoal",
+      "x": 854.557208359986,
+      "y": 400.5109237999695,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "4ea4a527-a21a-4a9d-a4b8-656f59d06a1f",
+      "text": "Realizar Missão",
+      "type": "kaos.BehavioralGoal",
+      "x": 1250.2938556790798,
+      "y": 405.77256242119375,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "192042e6-3e40-4b1f-b6f0-2fbadab934ad",
+      "text": "Coletar Dados",
+      "type": "kaos.BehavioralGoal",
+      "x": 934.0174646000117,
+      "y": 299.70130816000847,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "aadd5cc2-cbde-4fca-856b-4705e5bbd3e1",
+      "text": "Processar os Dados",
+      "type": "kaos.BehavioralGoal",
+      "x": 1574.657945660945,
+      "y": 289.6510011245331,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "8c073f85-cf9e-47a1-8e34-686c180b4057",
+      "text": "Os Dados são usados pelo Gestor",
+      "type": "kaos.DomainProperty",
+      "x": 742.2057334758812,
+      "y": 295.415330286964,
+      "customProperties": {}
+    },
+    {
+      "id": "b2d44377-75aa-43ad-b324-53676716fa2f",
+      "text": "Achieve[Fornecer a Lista de Alvos]",
+      "type": "kaos.BehavioralGoal",
+      "x": 430.9740010556145,
+      "y": 503.28566860195986,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "fda126c9-e755-481d-973a-28b955e4a264",
+      "text": "Achieve[Fornecer Topologia]",
+      "type": "kaos.BehavioralGoal",
+      "x": 639.1756759458611,
+      "y": 504.078750825606,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "5a7c0e11-1cf4-4387-86a6-32f810616f79",
+      "text": "Achieve[Carregar a Bateria]",
+      "type": "kaos.BehavioralGoal",
+      "x": 817.8701651712128,
+      "y": 504.1688332453655,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "a723f972-89cc-49c3-8157-e89c89fec3f0",
+      "text": "Drone",
+      "type": "kaos.Agent",
+      "x": 645.8098403628862,
+      "y": 595.369686079512,
+      "customProperties": {}
+    },
+    {
+      "id": "823f80ce-522d-4d40-b772-baf91ac972f9",
+      "text": "Controlador",
+      "type": "kaos.Agent",
+      "x": 455.29751493657284,
+      "y": 600.579939611944,
+      "customProperties": {}
+    },
+    {
+      "id": "876d064b-8a01-4799-a115-cd4c61588387",
+      "text": "Achieve[Verificar Acessibilidade dos Alvos]",
+      "type": "kaos.BehavioralGoal",
+      "x": 1053.8672555599699,
+      "y": 506.7930141599952,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "e44e49bc-273f-475f-8db6-fa1362f1ab87",
+      "text": "Maintain[Nivel Minimo da Bateria]",
+      "type": "kaos.BehavioralGoal",
+      "x": 1376.0567767999635,
+      "y": 511.12052595999126,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "76b5272f-3c36-42e6-991b-1de0b222b976",
+      "text": "Achieve[Chegar até os Alvos]",
+      "type": "kaos.BehavioralGoal",
+      "x": 1652.4480377599873,
+      "y": 512.672488200004,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "496e62e4-18d7-4193-a929-dd8c9dd9b8c7",
+      "text": "Achieve[Coletar Amostra]",
+      "type": "kaos.BehavioralGoal",
+      "x": 1911.9310047199983,
+      "y": 510.4943223200038,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "fbf1357c-feea-423b-9e8e-31a6fba4ce59",
+      "text": "Achieve[Retornar à Base]",
+      "type": "kaos.BehavioralGoal",
+      "x": 2123.3669750536083,
+      "y": 508.73700277182127,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    },
+    {
+      "id": "37a226e0-b1af-4258-856e-d75d24b8c34e",
+      "text": "Achieve[Exibição dos Dados]",
+      "type": "kaos.BehavioralGoal",
+      "x": 1645,
+      "y": 366,
+      "customProperties": {
+        "FormalSpec": ""
+      }
+    }
+  ],
+  "dependencies": [],
+  "links": [
+    {
+      "hub": {
+        "id": "e1d79311-3b9c-4ddb-986d-2e50604688e9",
+        "type": "kaos.RefinementLinkHub",
+        "x": 77.50520824907122,
+        "y": 258.40322168819813,
+        "customProperties": {
+          "SysRef": "",
+          "Status": "",
+          "Tactic": ""
+        }
+      },
+      "starts": [
+        {
+          "id": "75fdb153-aaca-4655-989b-8a4c3f1af8c8",
+          "type": "kaos.RefinementLinkStart",
+          "source": "107be61c-3556-4c05-926f-dbcfd82aa7e6",
+          "target": "e1d79311-3b9c-4ddb-986d-2e50604688e9"
+        },
+        {
+          "id": "61f8a5e0-c064-48ac-949f-d1967c70ddad",
+          "type": "kaos.RefinementLinkStart",
+          "source": "b01396d9-1850-45e9-9596-dfc1dbbb941f",
+          "target": "e1d79311-3b9c-4ddb-986d-2e50604688e9"
+        },
+        {
+          "id": "e4eeee35-822c-4cb1-825f-1841e74fe983",
+          "type": "kaos.RefinementLinkStart",
+          "source": "cf206ae9-c58c-45d7-8dd9-b0269bf7c555",
+          "target": "e1d79311-3b9c-4ddb-986d-2e50604688e9"
+        }
+      ],
+      "end": {
+        "id": "5cfa1e82-442f-473d-b808-f1f7a13623c2",
+        "type": "kaos.RefinementLinkEnd",
+        "source": "e1d79311-3b9c-4ddb-986d-2e50604688e9",
+        "target": "53f608f2-01b1-41eb-b319-4c0c22b56cce"
+      }
+    },
+    {
+      "hub": {
+        "id": "d31325d5-66f4-41f6-8ddd-7adbcb56639b",
+        "type": "kaos.RefinementLinkHub",
+        "x": -42.97595244879099,
+        "y": 417.7333776811655,
+        "customProperties": {
+          "SysRef": "",
+          "Status": "",
+          "Tactic": ""
+        }
+      },
+      "starts": [
+        {
+          "id": "54931ae7-abd4-4e53-8ef4-183e9dd989eb",
+          "type": "kaos.RefinementLinkStart",
+          "source": "2871ef0b-372a-48d7-9ed9-16e0bacbe398",
+          "target": "d31325d5-66f4-41f6-8ddd-7adbcb56639b"
+        },
+        {
+          "id": "9248f771-faa7-42cd-aacd-a0931706f217",
+          "type": "kaos.RefinementLinkStart",
+          "source": "c35a5a86-4d57-4713-acdf-0bb7e6c2146e",
+          "target": "d31325d5-66f4-41f6-8ddd-7adbcb56639b"
+        },
+        {
+          "id": "6ae06b84-1041-47af-9f18-7cfdf4f8f930",
+          "type": "kaos.RefinementLinkStart",
+          "source": "61e886b3-7b01-4208-b60a-157dd3054c61",
+          "target": "d31325d5-66f4-41f6-8ddd-7adbcb56639b"
+        },
+        {
+          "id": "213d3985-d5ad-4db7-9ee5-84bb96eb18c9",
+          "type": "kaos.RefinementLinkStart",
+          "source": "1ae7e7ac-8b56-4421-a07f-2a65feda1854",
+          "target": "d31325d5-66f4-41f6-8ddd-7adbcb56639b"
+        }
+      ],
+      "end": {
+        "id": "51f9cc81-2568-42a9-8549-05d1dc98f50e",
+        "type": "kaos.RefinementLinkEnd",
+        "source": "d31325d5-66f4-41f6-8ddd-7adbcb56639b",
+        "target": "cf206ae9-c58c-45d7-8dd9-b0269bf7c555"
+      }
+    },
+    {
+      "id": "095f9424-e44e-403b-b90b-65e15aae3d04",
+      "type": "kaos.ResponsibilityAssignment",
+      "source": "f6f82341-19bf-49a2-8295-c3eadf06c536",
+      "target": "61e886b3-7b01-4208-b60a-157dd3054c61"
+    },
+    {
+      "hub": {
+        "id": "6d82d8ba-4573-4ffe-82ae-0753c14aded0",
+        "type": "kaos.RefinementLinkHub",
+        "x": 9.465067396817261,
+        "y": 571.5571836652832,
+        "customProperties": {
+          "SysRef": "",
+          "Status": "",
+          "Tactic": ""
+        }
+      },
+      "starts": [
+        {
+          "id": "aa9d3b17-04b5-4885-aaf2-86ad0ed4997c",
+          "type": "kaos.RefinementLinkStart",
+          "source": "455a5aac-6c52-4336-a041-8e9762ba14c5",
+          "target": "6d82d8ba-4573-4ffe-82ae-0753c14aded0"
+        }
+      ],
+      "end": {
+        "id": "de5c463e-e7c6-40f1-be98-0a483ace0bb1",
+        "type": "kaos.RefinementLinkEnd",
+        "source": "6d82d8ba-4573-4ffe-82ae-0753c14aded0",
+        "target": "c35a5a86-4d57-4713-acdf-0bb7e6c2146e"
+      }
+    },
+    {
+      "hub": {
+        "id": "22a64ee3-9ea7-4bd3-8489-c59ca477d267",
+        "type": "kaos.RefinementLinkHub",
+        "x": 726.164950627796,
+        "y": 464.9356326809636,
+        "customProperties": {
+          "SysRef": "",
+          "Status": "",
+          "Tactic": ""
+        }
+      },
+      "starts": [
+        {
+          "id": "75adb581-5102-48a3-9ea8-8beb3209d1d0",
+          "type": "kaos.RefinementLinkStart",
+          "source": "b2d44377-75aa-43ad-b324-53676716fa2f",
+          "target": "22a64ee3-9ea7-4bd3-8489-c59ca477d267"
+        },
+        {
+          "id": "b40b3356-eb40-49b6-8940-dff1cc377142",
+          "type": "kaos.RefinementLinkStart",
+          "source": "fda126c9-e755-481d-973a-28b955e4a264",
+          "target": "22a64ee3-9ea7-4bd3-8489-c59ca477d267"
+        },
+        {
+          "id": "f4c89b97-4c62-4875-8cfa-dea37a2e7867",
+          "type": "kaos.RefinementLinkStart",
+          "source": "5a7c0e11-1cf4-4387-86a6-32f810616f79",
+          "target": "22a64ee3-9ea7-4bd3-8489-c59ca477d267"
+        }
+      ],
+      "end": {
+        "id": "9061d909-a51b-4224-84e5-6ea2efaab4c5",
+        "type": "kaos.RefinementLinkEnd",
+        "source": "22a64ee3-9ea7-4bd3-8489-c59ca477d267",
+        "target": "c846f413-cc49-46f1-bea0-53da29fa85f6"
+      }
+    },
+    {
+      "id": "1bd73451-ed44-46ac-b16a-5b8aca0a1026",
+      "type": "kaos.ResponsibilityAssignment",
+      "source": "823f80ce-522d-4d40-b772-baf91ac972f9",
+      "target": "b2d44377-75aa-43ad-b324-53676716fa2f"
+    },
+    {
+      "id": "9e6f5bd2-2262-468d-a594-6d60df533209",
+      "type": "kaos.ResponsibilityAssignment",
+      "source": "a723f972-89cc-49c3-8157-e89c89fec3f0",
+      "target": "fda126c9-e755-481d-973a-28b955e4a264"
+    },
+    {
+      "hub": {
+        "id": "fb7af7ac-737e-4c76-a8e7-cf6e45b347d5",
+        "type": "kaos.RefinementLinkHub",
+        "x": 1667.3899168503503,
+        "y": 448.22693853756294,
+        "customProperties": {
+          "SysRef": "",
+          "Status": "",
+          "Tactic": ""
+        }
+      },
+      "starts": [
+        {
+          "id": "4e6c85c1-f02f-46b4-ac40-a95e03a33a52",
+          "type": "kaos.RefinementLinkStart",
+          "source": "876d064b-8a01-4799-a115-cd4c61588387",
+          "target": "fb7af7ac-737e-4c76-a8e7-cf6e45b347d5"
+        },
+        {
+          "id": "6578927b-33f3-40b1-bd27-cd7a43225b9f",
+          "type": "kaos.RefinementLinkStart",
+          "source": "e44e49bc-273f-475f-8db6-fa1362f1ab87",
+          "target": "fb7af7ac-737e-4c76-a8e7-cf6e45b347d5"
+        },
+        {
+          "id": "ce618226-0f40-4c80-94ac-a1ff1c4234a9",
+          "type": "kaos.RefinementLinkStart",
+          "source": "496e62e4-18d7-4193-a929-dd8c9dd9b8c7",
+          "target": "fb7af7ac-737e-4c76-a8e7-cf6e45b347d5"
+        },
+        {
+          "id": "4e7df5a8-43ba-424b-8e19-fd8961851416",
+          "type": "kaos.RefinementLinkStart",
+          "source": "76b5272f-3c36-42e6-991b-1de0b222b976",
+          "target": "fb7af7ac-737e-4c76-a8e7-cf6e45b347d5"
+        },
+        {
+          "id": "511f8478-0e1f-4abb-990f-f0ae36a3790f",
+          "type": "kaos.RefinementLinkStart",
+          "source": "fbf1357c-feea-423b-9e8e-31a6fba4ce59",
+          "target": "fb7af7ac-737e-4c76-a8e7-cf6e45b347d5"
+        }
+      ],
+      "end": {
+        "id": "706cce86-ecca-401d-8cd1-ac5caffeb0d9",
+        "type": "kaos.RefinementLinkEnd",
+        "source": "fb7af7ac-737e-4c76-a8e7-cf6e45b347d5",
+        "target": "4ea4a527-a21a-4a9d-a4b8-656f59d06a1f"
+      }
+    },
+    {
+      "hub": {
+        "id": "a825ec17-4ec7-47ea-951e-d952a6a24799",
+        "type": "kaos.RefinementLinkHub",
+        "x": 951.7873364799989,
+        "y": 358.106115979989,
+        "customProperties": {
+          "SysRef": "",
+          "Status": "",
+          "Tactic": ""
+        }
+      },
+      "starts": [
+        {
+          "id": "656a45ea-8770-4ccc-9e34-3d5aaf47b487",
+          "type": "kaos.RefinementLinkStart",
+          "source": "c846f413-cc49-46f1-bea0-53da29fa85f6",
+          "target": "a825ec17-4ec7-47ea-951e-d952a6a24799"
+        },
+        {
+          "id": "46485459-71fe-4b21-9d46-d8ff2e80ca57",
+          "type": "kaos.RefinementLinkStart",
+          "source": "4ea4a527-a21a-4a9d-a4b8-656f59d06a1f",
+          "target": "a825ec17-4ec7-47ea-951e-d952a6a24799"
+        }
+      ],
+      "end": {
+        "id": "2e94ab40-18c8-4db5-9b1b-299c440f11db",
+        "type": "kaos.RefinementLinkEnd",
+        "source": "a825ec17-4ec7-47ea-951e-d952a6a24799",
+        "target": "192042e6-3e40-4b1f-b6f0-2fbadab934ad"
+      }
+    },
+    {
+      "hub": {
+        "id": "66bca79c-0128-48f4-a2c3-9ddc95fccb63",
+        "type": "kaos.RefinementLinkHub",
+        "x": 1249.5970076447588,
+        "y": 223.70895097847585,
+        "customProperties": {
+          "SysRef": "",
+          "Status": "",
+          "Tactic": ""
+        }
+      },
+      "starts": [
+        {
+          "id": "997c2d30-999a-4df2-ba17-e74d2b9c31e4",
+          "type": "kaos.RefinementLinkStart",
+          "source": "192042e6-3e40-4b1f-b6f0-2fbadab934ad",
+          "target": "66bca79c-0128-48f4-a2c3-9ddc95fccb63"
+        },
+        {
+          "id": "811e227e-3f48-41bf-9b19-9b6213007dbf",
+          "type": "kaos.RefinementLinkStart",
+          "source": "aadd5cc2-cbde-4fca-856b-4705e5bbd3e1",
+          "target": "66bca79c-0128-48f4-a2c3-9ddc95fccb63"
+        },
+        {
+          "id": "3e38a2c1-70c6-45af-9355-a11eced19e95",
+          "type": "kaos.RefinementLinkStart",
+          "source": "8c073f85-cf9e-47a1-8e34-686c180b4057",
+          "target": "66bca79c-0128-48f4-a2c3-9ddc95fccb63"
+        }
+      ],
+      "end": {
+        "id": "4edddc91-43ad-4a5d-b7f8-e8a91610b49e",
+        "type": "kaos.RefinementLinkEnd",
+        "source": "66bca79c-0128-48f4-a2c3-9ddc95fccb63",
+        "target": "3d15f523-7fac-428b-99c5-7212e4c5947b"
+      }
+    },
+    {
+      "hub": {
+        "id": "7c281b7b-6907-4729-8d9a-96b5935bc8a1",
+        "type": "kaos.RefinementLinkHub",
+        "x": 1698.5789728304726,
+        "y": 337.32550056226654,
+        "customProperties": {
+          "SysRef": "",
+          "Status": "",
+          "Tactic": ""
+        }
+      },
+      "starts": [
+        {
+          "id": "cb6d2156-e969-4f99-9889-dce5f8973840",
+          "type": "kaos.RefinementLinkStart",
+          "source": "37a226e0-b1af-4258-856e-d75d24b8c34e",
+          "target": "7c281b7b-6907-4729-8d9a-96b5935bc8a1"
+        }
+      ],
+      "end": {
+        "id": "4850c0c6-61cb-4018-ac99-77bc31170933",
+        "type": "kaos.RefinementLinkEnd",
+        "source": "7c281b7b-6907-4729-8d9a-96b5935bc8a1",
+        "target": "aadd5cc2-cbde-4fca-856b-4705e5bbd3e1"
+      }
+    }
+  ],
+  "display": {
+    "53f608f2-01b1-41eb-b319-4c0c22b56cce": {
+      "width": 187,
+      "height": 54
+    },
+    "107be61c-3556-4c05-926f-dbcfd82aa7e6": {
+      "width": 181,
+      "height": 52
+    },
+    "cf206ae9-c58c-45d7-8dd9-b0269bf7c555": {
+      "width": 150,
+      "height": 42
+    },
+    "2871ef0b-372a-48d7-9ed9-16e0bacbe398": {
+      "width": 143,
+      "height": 48
+    },
+    "c35a5a86-4d57-4713-acdf-0bb7e6c2146e": {
+      "width": 165,
+      "height": 46
+    },
+    "1ae7e7ac-8b56-4421-a07f-2a65feda1854": {
+      "width": 139,
+      "height": 49
+    },
+    "61e886b3-7b01-4208-b60a-157dd3054c61": {
+      "width": 159,
+      "height": 39
+    },
+    "b01396d9-1850-45e9-9596-dfc1dbbb941f": {
+      "width": 165,
+      "height": 46
+    },
+    "3d15f523-7fac-428b-99c5-7212e4c5947b": {
+      "width": 177,
+      "height": 49
+    },
+    "aadd5cc2-cbde-4fca-856b-4705e5bbd3e1": {
+      "width": 160
+    },
+    "b2d44377-75aa-43ad-b324-53676716fa2f": {
+      "width": 186,
+      "height": 43
+    },
+    "fda126c9-e755-481d-973a-28b955e4a264": {
+      "width": 154,
+      "height": 42
+    },
+    "5a7c0e11-1cf4-4387-86a6-32f810616f79": {
+      "width": 151,
+      "height": 41
+    },
+    "876d064b-8a01-4799-a115-cd4c61588387": {
+      "width": 298,
+      "height": 46
+    },
+    "e44e49bc-273f-475f-8db6-fa1362f1ab87": {
+      "width": 253,
+      "height": 42
+    },
+    "76b5272f-3c36-42e6-991b-1de0b222b976": {
+      "width": 228,
+      "height": 44
+    },
+    "496e62e4-18d7-4193-a929-dd8c9dd9b8c7": {
+      "width": 192,
+      "height": 44
+    },
+    "fbf1357c-feea-423b-9e8e-31a6fba4ce59": {
+      "width": 182,
+      "height": 48
+    },
+    "37a226e0-b1af-4258-856e-d75d24b8c34e": {
+      "width": 235,
+      "height": 42
+    }
+  },
+  "tool": "dsm3-goals",
+  "metamodelVersion": "1.0",
+  "saveDate": "Mon, 29 Apr 2019 05:14:41 GMT",
+  "diagram": {
+    "width": 2000,
+    "height": 1300,
+    "name": "Example KAOS goal model",
+    "customProperties": {
+      "Description": "The tool for KAOS goal models has two noteworthy features: \n - Creation of links with multiple sources (e.g., the AND-refinement of Reliability;\n - Pre-defined properties in goals, refinement links (in the circle) and conflict links",
+      "engine": "kaos",
+      "framework": "kaos"
+    }
+  }
+}
