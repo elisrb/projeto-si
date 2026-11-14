@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="dJCqRRRSREMhTHSWa_J2">
-    <mxGraphModel dx="1378" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
             <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B4ey-AmX2ztoqDWM5skF-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Robô" vertex="1">
+        <mxCell id="B4ey-AmX2ztoqDWM5skF-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Robô&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="90" x="540" y="300" as="geometry" />
         </mxCell>
         <mxCell id="B4ey-AmX2ztoqDWM5skF-3" edge="1" parent="1" source="B4ey-AmX2ztoqDWM5skF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="B4ey-AmX2ztoqDWM5skF-2">
