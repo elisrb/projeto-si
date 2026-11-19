@@ -1,25 +1,25 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Página-1" id="Ooo8SUo5g91fI-yC77BM">
-    <mxGraphModel dx="1776" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1241" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Cvoqk0UT0P5Uvdi_LokP-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="GOAL" vertex="1">
+        <mxCell id="Cvoqk0UT0P5Uvdi_LokP-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="GOAL" vertex="1">
           <mxGeometry height="30" width="60" x="120" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="Cvoqk0UT0P5Uvdi_LokP-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="ACTOR" vertex="1">
+        <mxCell id="Cvoqk0UT0P5Uvdi_LokP-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ACTOR" vertex="1">
           <mxGeometry height="30" width="60" x="410" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="Cvoqk0UT0P5Uvdi_LokP-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="IMPACT" vertex="1">
+        <mxCell id="Cvoqk0UT0P5Uvdi_LokP-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="IMPACT" vertex="1">
           <mxGeometry height="30" width="60" x="695" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="Cvoqk0UT0P5Uvdi_LokP-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="DELIVERABLES" vertex="1">
+        <mxCell id="Cvoqk0UT0P5Uvdi_LokP-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DELIVERABLES" vertex="1">
           <mxGeometry height="30" width="120" x="925" y="10" as="geometry" />
         </mxCell>
         <mxCell id="HjLoQeu0sE7kAJpkM1Mu-14" edge="1" parent="1" source="HjLoQeu0sE7kAJpkM1Mu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="HjLoQeu0sE7kAJpkM1Mu-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Achieve[Plano de Missão Definido]" vertex="1">
+        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Achieve[Plano de Missão Definido]" vertex="1">
           <mxGeometry height="30" width="200" x="50" y="80" as="geometry" />
         </mxCell>
         <mxCell id="HjLoQeu0sE7kAJpkM1Mu-10" edge="1" parent="1" source="HjLoQeu0sE7kAJpkM1Mu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="HjLoQeu0sE7kAJpkM1Mu-4">
@@ -31,102 +31,102 @@
         <mxCell id="HjLoQeu0sE7kAJpkM1Mu-12" edge="1" parent="1" source="HjLoQeu0sE7kAJpkM1Mu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="HjLoQeu0sE7kAJpkM1Mu-7">
           <mxGeometry relative="1" x="-0.0233" as="geometry" />
         </mxCell>
-        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Controlador da Missão" vertex="1">
+        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Controlador da Missão" vertex="1">
           <mxGeometry height="30" width="140" x="370" y="80" as="geometry" />
         </mxCell>
         <mxCell id="0aa76Kqe-WT2T4t-Jn9S-4" edge="1" parent="1" source="HjLoQeu0sE7kAJpkM1Mu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="HjLoQeu0sE7kAJpkM1Mu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="O Controlador direciona a missão aos pontos do cultivo que precisam de monitoramento." vertex="1">
+        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="O Controlador direciona a missão aos pontos do cultivo que precisam de monitoramento." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="65" as="geometry" />
         </mxCell>
         <mxCell id="0aa76Kqe-WT2T4t-Jn9S-5" edge="1" parent="1" source="HjLoQeu0sE7kAJpkM1Mu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="HjLoQeu0sE7kAJpkM1Mu-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="A ordem de visita dos Alvos obrigatórios reflete a prioridade estabelecida pelo Controlador." vertex="1">
+        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="A ordem de visita dos Alvos obrigatórios reflete a prioridade estabelecida pelo Controlador." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="140" as="geometry" />
         </mxCell>
         <mxCell id="0aa76Kqe-WT2T4t-Jn9S-6" edge="1" parent="1" source="HjLoQeu0sE7kAJpkM1Mu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="0aa76Kqe-WT2T4t-Jn9S-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="A coleta prevista para cada Alvo corresponde aos tipos de dados que o Controlador precisa obter." vertex="1">
+        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="A coleta prevista para cada Alvo corresponde aos tipos de dados que o Controlador precisa obter." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="215" as="geometry" />
         </mxCell>
-        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-9" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Configuração dos Alvos" vertex="1">
+        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-9" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Configuração dos Alvos" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="65" as="geometry" />
         </mxCell>
         <mxCell id="HjLoQeu0sE7kAJpkM1Mu-23" edge="1" parent="1" source="HjLoQeu0sE7kAJpkM1Mu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="HjLoQeu0sE7kAJpkM1Mu-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Achieve[Informações Topológicas Disponíveis]" vertex="1">
+        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Achieve[Informações Topológicas Disponíveis]" vertex="1">
           <mxGeometry height="30" width="260" x="20" y="430" as="geometry" />
         </mxCell>
         <mxCell id="HjLoQeu0sE7kAJpkM1Mu-24" edge="1" parent="1" source="HjLoQeu0sE7kAJpkM1Mu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="HjLoQeu0sE7kAJpkM1Mu-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Drone" vertex="1">
+        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Drone" vertex="1">
           <mxGeometry height="30" width="140" x="370" y="430" as="geometry" />
         </mxCell>
         <mxCell id="HjLoQeu0sE7kAJpkM1Mu-25" edge="1" parent="1" source="HjLoQeu0sE7kAJpkM1Mu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="HjLoQeu0sE7kAJpkM1Mu-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="O Robô pode usar as informações topológicas fornecidas pelo Drone para orientar seu deslocamento." vertex="1">
+        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="O Robô pode usar as informações topológicas fornecidas pelo Drone para orientar seu deslocamento." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="415" as="geometry" />
         </mxCell>
-        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-22" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Intercomunicação com Drone" vertex="1">
+        <mxCell id="HjLoQeu0sE7kAJpkM1Mu-22" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Intercomunicação com Drone" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="415" as="geometry" />
         </mxCell>
         <mxCell id="s8iSGYdYYNvV3BHW3ncY-1" edge="1" parent="1" source="s8iSGYdYYNvV3BHW3ncY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="s8iSGYdYYNvV3BHW3ncY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s8iSGYdYYNvV3BHW3ncY-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Achieve[Dados Disponibilizados ao Sistema de Gestão Agrícola]" vertex="1">
+        <mxCell id="s8iSGYdYYNvV3BHW3ncY-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Achieve[Dados Disponibilizados ao Sistema de Gestão Agrícola]" vertex="1">
           <mxGeometry height="60" width="270" x="20" y="605" as="geometry" />
         </mxCell>
         <mxCell id="s8iSGYdYYNvV3BHW3ncY-3" edge="1" parent="1" source="s8iSGYdYYNvV3BHW3ncY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="s8iSGYdYYNvV3BHW3ncY-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s8iSGYdYYNvV3BHW3ncY-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Robô" vertex="1">
+        <mxCell id="s8iSGYdYYNvV3BHW3ncY-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Robô" vertex="1">
           <mxGeometry height="30" width="140" x="370" y="620" as="geometry" />
         </mxCell>
         <mxCell id="s8iSGYdYYNvV3BHW3ncY-5" edge="1" parent="1" source="s8iSGYdYYNvV3BHW3ncY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="s8iSGYdYYNvV3BHW3ncY-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s8iSGYdYYNvV3BHW3ncY-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="O Sistema de Gestão Agrícola consegue recuperar os dados de cada Alvo para processá-los." vertex="1">
+        <mxCell id="s8iSGYdYYNvV3BHW3ncY-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="O Sistema de Gestão Agrícola consegue recuperar os dados de cada Alvo para processá-los." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="605" as="geometry" />
         </mxCell>
-        <mxCell id="s8iSGYdYYNvV3BHW3ncY-7" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Consulta aos Dados das Coletas" vertex="1">
+        <mxCell id="s8iSGYdYYNvV3BHW3ncY-7" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Consulta aos Dados das Coletas" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="605" as="geometry" />
         </mxCell>
         <mxCell id="s8iSGYdYYNvV3BHW3ncY-8" edge="1" parent="1" source="HjLoQeu0sE7kAJpkM1Mu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="HjLoQeu0sE7kAJpkM1Mu-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0aa76Kqe-WT2T4t-Jn9S-2" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Configuração da Coleta" vertex="1">
+        <mxCell id="0aa76Kqe-WT2T4t-Jn9S-2" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Configuração da Coleta" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="215" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Página-2" id="eQq15e5Z7makc04y8Yyx">
-    <mxGraphModel dx="1256" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="NRh6-4lXZ-8_l4znRGJf-0" />
         <mxCell id="NRh6-4lXZ-8_l4znRGJf-1" parent="NRh6-4lXZ-8_l4znRGJf-0" />
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-2" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="GOAL" vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-2" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="GOAL" vertex="1">
           <mxGeometry height="30" width="60" x="120" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-3" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="ACTOR" vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-3" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="ACTOR" vertex="1">
           <mxGeometry height="30" width="60" x="410" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-4" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="IMPACT" vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-4" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="IMPACT" vertex="1">
           <mxGeometry height="30" width="60" x="695" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-5" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="DELIVERABLES" vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-5" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="DELIVERABLES" vertex="1">
           <mxGeometry height="30" width="120" x="925" y="10" as="geometry" />
         </mxCell>
         <mxCell id="NRh6-4lXZ-8_l4znRGJf-6" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="NRh6-4lXZ-8_l4znRGJf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="NRh6-4lXZ-8_l4znRGJf-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-7" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Achieve[Dados do Monitoramento Coletados]" vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-7" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Achieve[Dados do Monitoramento Coletados]" vertex="1">
           <mxGeometry height="30" width="250" x="20" y="80" as="geometry" />
         </mxCell>
         <mxCell id="NRh6-4lXZ-8_l4znRGJf-8" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="NRh6-4lXZ-8_l4znRGJf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="NRh6-4lXZ-8_l4znRGJf-14">
@@ -138,7 +138,7 @@
         <mxCell id="NRh6-4lXZ-8_l4znRGJf-11" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="NRh6-4lXZ-8_l4znRGJf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="NRh6-4lXZ-8_l4znRGJf-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-12" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Robô" vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-12" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Robô" vertex="1">
           <mxGeometry height="30" width="140" x="370" y="80" as="geometry" />
         </mxCell>
         <mxCell id="NRh6-4lXZ-8_l4znRGJf-13" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="NRh6-4lXZ-8_l4znRGJf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="NRh6-4lXZ-8_l4znRGJf-21">
@@ -152,22 +152,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-14" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Diante de um obstáculo, o Robô distingue os Alvos que ainda consegue alcançar por outra rota." vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-14" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Diante de um obstáculo, o Robô distingue os Alvos que ainda consegue alcançar por outra rota." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="65" as="geometry" />
         </mxCell>
         <mxCell id="_2zZxHtTkA2QQyCjrAu7-4" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="NRh6-4lXZ-8_l4znRGJf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_2zZxHtTkA2QQyCjrAu7-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-18" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="O Robô alcança os Alvos obrigatórios na ordem definida no plano da missão." vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-18" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="O Robô alcança os Alvos obrigatórios na ordem definida no plano da missão." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="210" as="geometry" />
         </mxCell>
         <mxCell id="_2zZxHtTkA2QQyCjrAu7-5" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="NRh6-4lXZ-8_l4znRGJf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_2zZxHtTkA2QQyCjrAu7-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-20" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Cada Alvo monitorado passa a ter um registro com dados de diferentes modalidades." vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-20" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Cada Alvo monitorado passa a ter um registro com dados de diferentes modalidades." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="285" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-21" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Identificação de Obstáculos" vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-21" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Identificação de Obstáculos" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="65" as="geometry" />
         </mxCell>
         <mxCell id="NRh6-4lXZ-8_l4znRGJf-22" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="NRh6-4lXZ-8_l4znRGJf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="NRh6-4lXZ-8_l4znRGJf-25">
@@ -176,40 +176,40 @@
         <mxCell id="_2zZxHtTkA2QQyCjrAu7-10" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="NRh6-4lXZ-8_l4znRGJf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_2zZxHtTkA2QQyCjrAu7-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-23" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Achieve[Qualidade das Coletas Avaliada e Registrada]" vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-23" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Achieve[Qualidade das Coletas Avaliada e Registrada]" vertex="1">
           <mxGeometry height="30" width="300" x="10" y="430" as="geometry" />
         </mxCell>
         <mxCell id="NRh6-4lXZ-8_l4znRGJf-24" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="NRh6-4lXZ-8_l4znRGJf-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="NRh6-4lXZ-8_l4znRGJf-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-25" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Controlador da MIssão" vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-25" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Controlador da MIssão" vertex="1">
           <mxGeometry height="30" width="140" x="370" y="430" as="geometry" />
         </mxCell>
         <mxCell id="NRh6-4lXZ-8_l4znRGJf-26" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="NRh6-4lXZ-8_l4znRGJf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="NRh6-4lXZ-8_l4znRGJf-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-27" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Os critérios definidos pelo Controlador servem de referência para avaliar as coletas da missão." vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-27" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Os critérios definidos pelo Controlador servem de referência para avaliar as coletas da missão." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="415" as="geometry" />
         </mxCell>
-        <mxCell id="NRh6-4lXZ-8_l4znRGJf-28" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Configuração dos Critérios de Qualidade" vertex="1">
+        <mxCell id="NRh6-4lXZ-8_l4znRGJf-28" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Configuração dos Critérios de Qualidade" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="415" as="geometry" />
         </mxCell>
-        <mxCell id="_2zZxHtTkA2QQyCjrAu7-0" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Identificação de Rotas Alternativas" vertex="1">
+        <mxCell id="_2zZxHtTkA2QQyCjrAu7-0" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Identificação de Rotas Alternativas" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="_2zZxHtTkA2QQyCjrAu7-1" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Navegação entre Alvos" vertex="1">
+        <mxCell id="_2zZxHtTkA2QQyCjrAu7-1" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Navegação entre Alvos" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="_2zZxHtTkA2QQyCjrAu7-2" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Coleta de Dados multimodais" vertex="1">
+        <mxCell id="_2zZxHtTkA2QQyCjrAu7-2" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Coleta de Dados multimodais" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="285" as="geometry" />
         </mxCell>
         <mxCell id="_2zZxHtTkA2QQyCjrAu7-14" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="_2zZxHtTkA2QQyCjrAu7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_2zZxHtTkA2QQyCjrAu7-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_2zZxHtTkA2QQyCjrAu7-6" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="O Robô distingue as coletas que atendem aos critérios de qualidade daquelas que ficam abaixo do exigido." vertex="1">
+        <mxCell id="_2zZxHtTkA2QQyCjrAu7-6" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="O Robô distingue as coletas que atendem aos critérios de qualidade daquelas que ficam abaixo do exigido." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="_2zZxHtTkA2QQyCjrAu7-7" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Configuração dos Sensores" vertex="1">
+        <mxCell id="_2zZxHtTkA2QQyCjrAu7-7" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Configuração dos Sensores" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="565" as="geometry" />
         </mxCell>
         <mxCell id="_2zZxHtTkA2QQyCjrAu7-9" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="_2zZxHtTkA2QQyCjrAu7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_2zZxHtTkA2QQyCjrAu7-6">
@@ -221,25 +221,25 @@
         <mxCell id="_2zZxHtTkA2QQyCjrAu7-19" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="_2zZxHtTkA2QQyCjrAu7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_2zZxHtTkA2QQyCjrAu7-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_2zZxHtTkA2QQyCjrAu7-8" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Robô" vertex="1">
+        <mxCell id="_2zZxHtTkA2QQyCjrAu7-8" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Robô" vertex="1">
           <mxGeometry height="30" width="140" x="370" y="505" as="geometry" />
         </mxCell>
         <mxCell id="_2zZxHtTkA2QQyCjrAu7-12" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="_2zZxHtTkA2QQyCjrAu7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_2zZxHtTkA2QQyCjrAu7-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_2zZxHtTkA2QQyCjrAu7-11" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="O Robô opera os sensores com parâmetros adequados às condições de coleta." vertex="1">
+        <mxCell id="_2zZxHtTkA2QQyCjrAu7-11" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="O Robô opera os sensores com parâmetros adequados às condições de coleta." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="565" as="geometry" />
         </mxCell>
-        <mxCell id="_2zZxHtTkA2QQyCjrAu7-13" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Avaliação da Qualidade da Coleta&amp;nbsp;" vertex="1">
+        <mxCell id="_2zZxHtTkA2QQyCjrAu7-13" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Avaliação da Qualidade da Coleta&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="490" as="geometry" />
         </mxCell>
         <mxCell id="_2zZxHtTkA2QQyCjrAu7-17" edge="1" parent="NRh6-4lXZ-8_l4znRGJf-1" source="_2zZxHtTkA2QQyCjrAu7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_2zZxHtTkA2QQyCjrAu7-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_2zZxHtTkA2QQyCjrAu7-15" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="O resultado da avaliação de cada coleta pode ser recuperado após a missão." vertex="1">
+        <mxCell id="_2zZxHtTkA2QQyCjrAu7-15" parent="NRh6-4lXZ-8_l4znRGJf-1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="O resultado da avaliação de cada coleta pode ser recuperado após a missão." vertex="1">
           <mxGeometry height="60" width="170" x="640" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="_2zZxHtTkA2QQyCjrAu7-16" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Registro de Qualidade da Coleta" vertex="1">
+        <mxCell id="_2zZxHtTkA2QQyCjrAu7-16" parent="NRh6-4lXZ-8_l4znRGJf-1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Registro de Qualidade da Coleta" vertex="1">
           <mxGeometry height="60" width="130" x="920" y="640" as="geometry" />
         </mxCell>
       </root>
